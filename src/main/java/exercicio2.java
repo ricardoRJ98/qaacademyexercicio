@@ -7,4 +7,4 @@ public class exercicio2 { //Inicio algoritmo
         palavraDigitada = JOptionPane.showInputDialog("Digite uma palavra:");
         System.out.println("O usuario digitou: " + palavraDigitada);
     }
-}
+} //ufa foi
